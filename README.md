@@ -20,11 +20,4 @@ Ta mission (si tu l’acceptes) :
    - différence de prix moyen et durée selon le train, le bus et le covoit selon la distance du trajet (0-200km, 201-800km, 800-2000km, 2000+km) 
 
 
-Le rendu devra être tes scripts et (pas nécessairement) un mini-rapport m’expliquant tes recherches et ta démarche. Cela peut se présenter sous la forme d’un jupyter notebook
 
-Si tu ne sais pas comment démarrer je te conseille Python avec le package Pandas (et la méthode pandas.read_csv)
-
-Prends le temps qu’il te faut. Si tu as des questions n’hésites pas :-)
-
-
-Bon courage !!
